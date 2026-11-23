@@ -1,0 +1,13 @@
+{
+  "name": "atividade4_ambientes",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais com testes unitários em Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
